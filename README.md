@@ -1,10 +1,7 @@
-# README
 
 ¡Hola! 👋 Soy franvaccani, un desarrollador web full stack.
 
-## Redes Sociales
-
-No dudes en seguirme en mis redes sociales:
+## Redes Sociales:
 
 * [Instagram](https://instagram.com/bianco_juani)
 
