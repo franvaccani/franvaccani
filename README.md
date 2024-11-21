@@ -1,5 +1,5 @@
 
-¡Hola! 👋 Soy franvaccani, un desarrollador web full stack.
+¡Hola! 👋 Soy franvaccani, estudiante de desarrollo web full stack.
 
 ## Redes Sociales:
 
