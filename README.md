@@ -10,8 +10,8 @@ Soy estudiante de la Diplomatura en Desarrollo Web Full Stack, actualmente en la
   - Nest.js
 - 👯 Espero colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.<br>
-- Fuera del mundo tech, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros policiales
-
+- Fuera del mundo tech, me gusta  🎮 jugar videojuegos,  🎵 escuchar música y  📖 leer libros policiales
+ 
 ## My Skills
 
 <h4> Languages </h4>
