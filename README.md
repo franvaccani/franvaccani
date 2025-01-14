@@ -6,13 +6,11 @@
 
 Soy estudiante de la Diplomatura en Desarrollo Web Full Stack, actualmente en la mitad de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en un estudio donde creamos páginas web. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo ...
-  - Next.js
   - PHP
-
-    •	👯 Estoy deseando colaborar en proyectos de código abierto.
-    •	✔ Pregúntame lo que sea, ¡estoy feliz de ayudar!
-    •	Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música y 📖 leer libros policiales.
-    •	📫 Puedes contactarme en: franciscovaccani08@gmail.com
+  - Nest.js
+- 👯 Espero colaborar en proyectos de código abierto.
+- ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.<br>
+- Fuera del mundo tech, 💜 me encanta transmitir en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de
 
 ## My Skills Include
 
