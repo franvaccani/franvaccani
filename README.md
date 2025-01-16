@@ -7,7 +7,6 @@
 Soy estudiante de la Diplomatura en Desarrollo Web Full Stack, actualmente en la mitad de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en un estudio donde creamos páginas web. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 - 🌱 Actualmente estoy aprendiendo ...
   - PHP
-  - Next.js
 - 👯 Espero colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.<br>
 - Fuera del mundo tech, me gusta  🎮 jugar videojuegos,  🎵 escuchar música y  📖 leer libros policiales
